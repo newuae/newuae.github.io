@@ -1,0 +1,13 @@
+h6
+    
+    {
+    
+    position: absolute;
+    top: 250%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+   
+    border-top: none;
+    
+    }
